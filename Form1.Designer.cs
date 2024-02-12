@@ -78,7 +78,7 @@
             // 
             // splitContainer1.Panel1
             // 
-            this.splitContainer1.Panel1.BackColor = System.Drawing.Color.ForestGreen;
+            this.splitContainer1.Panel1.BackColor = System.Drawing.Color.LightSeaGreen;
             this.splitContainer1.Panel1.Controls.Add(this.BTN_SETTINGS);
             this.splitContainer1.Panel1.Controls.Add(this.BTN_CONNECTTV);
             this.splitContainer1.Panel1.Controls.Add(this.BTN_RECALL);
@@ -432,31 +432,31 @@
             this.Palette = this.kryptonPalette1;
             this.PaletteMode = ComponentFactory.Krypton.Toolkit.PaletteMode.Custom;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.StateActive.Back.Color1 = System.Drawing.Color.ForestGreen;
-            this.StateActive.Back.Color2 = System.Drawing.Color.ForestGreen;
-            this.StateActive.Border.Color1 = System.Drawing.Color.ForestGreen;
-            this.StateActive.Border.Color2 = System.Drawing.Color.ForestGreen;
+            this.StateActive.Back.Color1 = System.Drawing.Color.LightSeaGreen;
+            this.StateActive.Back.Color2 = System.Drawing.Color.LightSeaGreen;
+            this.StateActive.Border.Color1 = System.Drawing.Color.LightSeaGreen;
+            this.StateActive.Border.Color2 = System.Drawing.Color.LightSeaGreen;
             this.StateActive.Border.DrawBorders = ((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders)((((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Top | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Bottom) 
             | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Left) 
             | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Right)));
-            this.StateActive.Header.Back.Color1 = System.Drawing.Color.ForestGreen;
-            this.StateActive.Header.Back.Color2 = System.Drawing.Color.ForestGreen;
-            this.StateActive.Header.Border.Color1 = System.Drawing.Color.ForestGreen;
-            this.StateActive.Header.Border.Color2 = System.Drawing.Color.ForestGreen;
+            this.StateActive.Header.Back.Color1 = System.Drawing.Color.LightSeaGreen;
+            this.StateActive.Header.Back.Color2 = System.Drawing.Color.LightSeaGreen;
+            this.StateActive.Header.Border.Color1 = System.Drawing.Color.LightSeaGreen;
+            this.StateActive.Header.Border.Color2 = System.Drawing.Color.LightSeaGreen;
             this.StateActive.Header.Border.DrawBorders = ((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders)((((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Top | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Bottom) 
             | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Left) 
             | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Right)));
-            this.StateCommon.Back.Color1 = System.Drawing.Color.ForestGreen;
-            this.StateCommon.Back.Color2 = System.Drawing.Color.ForestGreen;
-            this.StateCommon.Border.Color1 = System.Drawing.Color.ForestGreen;
-            this.StateCommon.Border.Color2 = System.Drawing.Color.ForestGreen;
+            this.StateCommon.Back.Color1 = System.Drawing.Color.LightSeaGreen;
+            this.StateCommon.Back.Color2 = System.Drawing.Color.LightSeaGreen;
+            this.StateCommon.Border.Color1 = System.Drawing.Color.LightSeaGreen;
+            this.StateCommon.Border.Color2 = System.Drawing.Color.LightSeaGreen;
             this.StateCommon.Border.DrawBorders = ((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders)((((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Top | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Bottom) 
             | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Left) 
             | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Right)));
-            this.StateCommon.Header.Back.Color1 = System.Drawing.Color.ForestGreen;
-            this.StateCommon.Header.Back.Color2 = System.Drawing.Color.ForestGreen;
-            this.StateCommon.Header.Border.Color1 = System.Drawing.Color.ForestGreen;
-            this.StateCommon.Header.Border.Color2 = System.Drawing.Color.ForestGreen;
+            this.StateCommon.Header.Back.Color1 = System.Drawing.Color.LightSeaGreen;
+            this.StateCommon.Header.Back.Color2 = System.Drawing.Color.LightSeaGreen;
+            this.StateCommon.Header.Border.Color1 = System.Drawing.Color.LightSeaGreen;
+            this.StateCommon.Header.Border.Color2 = System.Drawing.Color.LightSeaGreen;
             this.StateCommon.Header.Border.DrawBorders = ((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders)((((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Top | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Bottom) 
             | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Left) 
             | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Right)));
@@ -464,17 +464,17 @@
             this.StateCommon.Header.Content.ShortText.Color2 = System.Drawing.Color.White;
             this.StateCommon.Header.Content.ShortText.Hint = ComponentFactory.Krypton.Toolkit.PaletteTextHint.AntiAliasGridFit;
             this.StateCommon.Header.Content.ShortText.Image = global::countersystemV1.Properties.Resources.logo;
-            this.StateInactive.Back.Color1 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(66)))), ((int)(((byte)(27)))));
-            this.StateInactive.Back.Color2 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(66)))), ((int)(((byte)(27)))));
-            this.StateInactive.Border.Color1 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(66)))), ((int)(((byte)(27)))));
-            this.StateInactive.Border.Color2 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(66)))), ((int)(((byte)(27)))));
+            this.StateInactive.Back.Color1 = System.Drawing.Color.Teal;
+            this.StateInactive.Back.Color2 = System.Drawing.Color.Teal;
+            this.StateInactive.Border.Color1 = System.Drawing.Color.Teal;
+            this.StateInactive.Border.Color2 = System.Drawing.Color.Teal;
             this.StateInactive.Border.DrawBorders = ((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders)((((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Top | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Bottom) 
             | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Left) 
             | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Right)));
-            this.StateInactive.Header.Back.Color1 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(66)))), ((int)(((byte)(27)))));
-            this.StateInactive.Header.Back.Color2 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(66)))), ((int)(((byte)(27)))));
-            this.StateInactive.Header.Border.Color1 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(66)))), ((int)(((byte)(27)))));
-            this.StateInactive.Header.Border.Color2 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(66)))), ((int)(((byte)(27)))));
+            this.StateInactive.Header.Back.Color1 = System.Drawing.Color.Teal;
+            this.StateInactive.Header.Back.Color2 = System.Drawing.Color.Teal;
+            this.StateInactive.Header.Border.Color1 = System.Drawing.Color.Teal;
+            this.StateInactive.Header.Border.Color2 = System.Drawing.Color.Teal;
             this.StateInactive.Header.Border.DrawBorders = ((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders)((((ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Top | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Bottom) 
             | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Left) 
             | ComponentFactory.Krypton.Toolkit.PaletteDrawBorders.Right)));
